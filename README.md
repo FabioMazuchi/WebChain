@@ -5,6 +5,6 @@
 * Fábio Silveira
 * Henrrique Serres
 * Jotta Novaes
-* Fabio mazuchi
+* Fabio Mazuchi
 * Tiago Lourinho
 * Vinicius Jacques
